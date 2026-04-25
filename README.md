@@ -21,7 +21,7 @@ I take requests for additional systems, but you can also make them yourself with
 
 A quick presentation of the majority of the current images:
 [
-](https://youtu.be/oIm7DNNoMvc) 
+[![Vriom Dynamic Wallpapers for Retroarch](https://img.youtube.com/vi/oIm7DNNoMvc/0.jpg)](https://www.youtube.com/watch?v=oIm7DNNoMvc)
 
 ### Screenshots
 
