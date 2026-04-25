@@ -17,11 +17,15 @@ The wallpapers support 4K and use alpha transparency to allow you to see the cur
 
 I take requests for additional systems, but you can also make them yourself with the included Photoshop template. Instructions are included in the psd file.
 
+<br>
+
 ### Video
 
 A quick presentation of the majority of the current images:
-[
+
 [![Vriom Dynamic Wallpapers for Retroarch](https://img.youtube.com/vi/oIm7DNNoMvc/0.jpg)](https://www.youtube.com/watch?v=oIm7DNNoMvc)
+
+<br>
 
 ### Screenshots
 
