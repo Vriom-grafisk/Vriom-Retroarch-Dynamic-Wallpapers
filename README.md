@@ -11,7 +11,7 @@ I couldn't find any dynamic wallpapers for those of us who prefer a bit of a sca
 * Icon Thumbnail: OFF
 * Thumbnail Scale Factor: 50
 
-To install, simply drop all images into RetroArch\assets\wallpapers. You may need to rename some of the backgrounds to connect them to your playlists. If so, simply copy the playlist name and paste it as the wallpaper name.
+To install, simply drop all images into RetroArch\assets\wallpapers. You may need to rename some of the backgrounds to connect them to your playlists. If so, simply copy the playlist name and paste it as the wallpaper name. If you don't want the console images, there's a separate folder with backgrounds sans consoles.
 
 The wallpapers support 4K and use alpha transparency to allow you to see the currently running game in the background. Handy if you're browsing shaders and such.
 
@@ -44,3 +44,16 @@ A quick presentation of the majority of the current images:
 <img width="2559" alt="image" src="https://github.com/user-attachments/assets/28e5cb75-e3d3-45fd-8a7d-2bb2c7614fb8" />
 
 <img width="2559" alt="image" src="https://github.com/user-attachments/assets/fe704a27-feb3-4366-8395-b8583694854d" />
+
+<br>
+
+### Changelog
+
+v1.1: 26-08-14
+
+* Added alternative versions without console images
+* Added Commodore CDTV, Commodore Amiga CD32 and Fujitsu FM Towns Marty
+
+v1.0: 26-04-26
+
+* Initial upload
